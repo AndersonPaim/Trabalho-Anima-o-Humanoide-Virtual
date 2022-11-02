@@ -1,0 +1,256 @@
+# Blender MTL File: 'YoungLinkRig.blend'
+# Material Count: 23
+
+newmtl childlink_body
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd G:\\luma\\3D\\OoT3D\\Young Link\\childlink_00.png
+
+newmtl childlink_boomerang
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd G:\\luma\\3D\\OoT3D\\Young Link\\p_tex21.png
+
+newmtl childlink_bottle
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd G:\\luma\\3D\\OoT3D\\Characters\\Young Link Rig\\p_tex07fix.png
+
+newmtl childlink_bottletop
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd G:\\luma\\3D\\OoT3D\\Characters\\Young Link Rig\\p_tex07fix.png
+
+newmtl childlink_dekushield
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd G:\\luma\\3D\\OoT3D\\Young Link\\p_tex17fix.png
+
+newmtl childlink_dekustick
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd p_tex24fix.PNG
+
+newmtl childlink_eyes
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd G:\\luma\\3D\\OoT3D\\Young Link\\c_eye01.png
+
+newmtl childlink_face
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd G:\\luma\\3D\\OoT3D\\Young Link\\childlink_f00.png
+
+newmtl childlink_goronbracelet
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd G:\\luma\\3D\\OoT3D\\Young Link\\p_tex25fix.png
+
+newmtl childlink_hair
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd G:\\luma\\3D\\OoT3D\\Young Link\\childlink_f01.png
+
+newmtl childlink_hand
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd G:\\luma\\3D\\OoT3D\\Young Link\\childlink_02.png
+
+newmtl childlink_hylianshield
+Ns 440.999985
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd G:\\luma\\3D\\OoT3D\\Young Link\\p_tex02fix.png
+
+newmtl childlink_kokirisword
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd G:\\luma\\3D\\OoT3D\\Young Link\\p_tex20fix.png
+
+newmtl childlink_kokiriswordblade
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd G:\\luma\\3D\\OoT3D\\Young Link\\p_tex20fix.png
+
+newmtl childlink_mastersword
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd G:\\luma\\3D\\OoT3D\\Characters\\Young Link Rig\\p_tex08fix.png
+
+newmtl childlink_masterswordblade
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd G:\\luma\\3D\\OoT3D\\Characters\\Young Link Rig\\p_tex08fix.png
+
+newmtl childlink_mouth
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd G:\\luma\\3D\\OoT3D\\Young Link\\c_mouth01.png
+
+newmtl childlink_scabbard
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd G:\\luma\\3D\\OoT3D\\Young Link\\p_tex22fix.png
+
+newmtl childlink_slingshot
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd G:\\luma\\3D\\OoT3D\\Young Link\\p_tex19.png
+
+newmtl childlink_slingshotband
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd G:\\luma\\3D\\OoT3D\\Young Link\\p_tex27.png
+map_d G:\\luma\\3D\\OoT3D\\Young Link\\p_tex27.png
+
+newmtl childlink_tunic
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd G:\\luma\\3D\\OoT3D\\Young Link\\childlink_01.png
+
+newmtl younglink_fairyocarina
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd G:\\luma\\3D\\OoT3D\\Young Link\\p_tex18.png
+
+newmtl younglink_ocarinaoftime
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd G:\\luma\\3D\\OoT3D\\Young Link\\p_tex04.png
